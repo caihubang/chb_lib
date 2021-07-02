@@ -1,6 +1,7 @@
 {
     "name": "chb_lib/chb_lib",
     "description": "chb_lib 组件",
+    "license":"MIT",
     "authors": [
         {
             "name": "caihubang",
